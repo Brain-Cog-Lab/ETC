@@ -1,3 +1,14 @@
+# Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency
+This repository contains code form our paper Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency. If you use our code or refer to this project, please cite 
+```
+@article{zhao2023improving,
+  title={Improving stability and performance of spiking neural networks through enhancing temporal consistency},
+  author={Zhao, Dongcheng and Shen, Guobin and Dong, Yiting and Li, Yang and Zeng, Yi},
+  journal={arXiv preprint arXiv:2305.14174},
+  year={2023}
+}
+```
+
 Install the corresponding package
 ```shell
 pip install -e .
